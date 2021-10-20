@@ -1,6 +1,6 @@
 # Quarkus project presented at Couchbase Connect 2021
 
-Demonstrate Quarkus 2.3 together with a 1.0.0-alpha.1-SNAPSHOT build of
+Demonstrate Quarkus 2.3 together with a 1.0.0-alpha.1 build of
 Couchbase.
 In particular, the presentation developer agility.
 The Quarkus coding focused on developer productivity, demonstrating
