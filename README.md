@@ -72,7 +72,7 @@ public class TravelResource {
 
 > **_NOTE:_**  Quarkus now ships with a Dev UI, which is available in dev mode only at http://localhost:8080/q/dev/.
 
-3. On the Quarkus CLI, press 'd' to open the Quarkus dev console ![](images/DforDevUI.png) in a browser
+3. On the Quarkus CLI, press 'd' to open the Quarkus dev console in a browser ![](images/DforDevUI.png)
 
 4. In the Dev Console UI, click *Keycloak* ![](images/DevConsoleKeycloak.png)
 
