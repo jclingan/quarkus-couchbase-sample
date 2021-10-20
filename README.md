@@ -47,7 +47,8 @@ A Couchbase Dev Service is in progress (as of October, 2021).
 Until then, you can secure the HTTP endpoint using ODIC via Keycloak
 with no setup and configuration.
 
-1. Add OIDC extension
+1. Add OIDC extension. This may take a while (1-3 minutes) for the Keycloak container to download and start
+in the terminal running the CLI.
 ```shell script
 quarkus extension add quarkus-oidc
 
