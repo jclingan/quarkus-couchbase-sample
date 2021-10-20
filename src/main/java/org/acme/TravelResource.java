@@ -14,7 +14,7 @@ import com.couchbase.client.java.Cluster;
 
 import org.eclipse.microprofile.config.inject.ConfigProperty;
 
-// @RolesAllowed("user")
+//@RolesAllowed("user")
 @Path("/travel")
 public class TravelResource {
   @Inject
